@@ -1,4 +1,4 @@
-# bioinformatics-pipeline-to-assist-in-the-assembly-and-analysis-of-SARS-COV-2
+# Bioinformatics-pipeline-analysis-SARS-COV-2
 
 Desenvolvimento de pipeline de bioinformática para auxiliar na montagem e análise de genomas virais
 
